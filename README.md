@@ -1,4 +1,4 @@
-#HackerRank SQL Solutions
+HackerRank SQL Solutions
 
 This repository contains all 58 solutions to the HackerRank SQL Practice Questions. Each solution is crafted to address a specific SQL problem from the HackerRank SQL challenge set, covering various aspects of SQL including querying, joins, aggregations, and more.
 
